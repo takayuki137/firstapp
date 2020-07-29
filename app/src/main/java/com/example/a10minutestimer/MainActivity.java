@@ -1,3 +1,4 @@
+//aaa
 package com.example.a10minutestimer;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -35,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
                     pauseTimer();
                 } else {
                     startTimer();
+
                 }
             }
         });
